@@ -10,7 +10,7 @@ Deploy VPC with Ubuntu Linux in [Timeweb Cloud](https://timeweb.cloud/) for Wire
 |-------------------|-------------------------------------------|--------------|
 | ubuntu_version    | Ubuntu Linux version                      | 22.04        |
 | instance_cpu      | Number of vCPUs in instance               | 1            |
-| instance_memory   | Amount of RAM memory in VCP in Mb         | 2048         |
+| instance_memory   | Amount of RAM memory in VPC in Mb         | 2048         |
 | instance_location | Instance location (ru-1, ru-2, pl-1, kz-1)| pl-1         |
 
 ## Deploy
